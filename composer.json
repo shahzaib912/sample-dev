@@ -1,0 +1,15 @@
+{
+    "name": "root/sample-dev",
+    "description": "This is a sample Git Hub package repository for learning purpose",
+    "type": "library",
+    "require": {
+        "php": ">=5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Shahzaib Shahid",
+            "email": "shahzaib.shahid@attock.org"
+        }
+    ]
+}
